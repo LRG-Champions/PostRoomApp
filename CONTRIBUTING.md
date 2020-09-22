@@ -1,12 +1,8 @@
 # Introduction
 
-### Write something nice here!
+First off, thank you for considering contributing to The Post Room App. It's people like you that make The Post Room App such a great tool.
 
->First off, thank you for considering contributing to App x. It's people like you that make App x such a great tool.
-
-### Tell them why they should read your guidelines.
-
->Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 ### Explain what kinds of contributions you are looking for.
 
