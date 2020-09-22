@@ -5,7 +5,7 @@
 
 The post Room app is an application built on SharePoint designed to digitize, post to send out to staff working remotely.It comes in 2 parts part 1 is the scanning app used by your post team and part 2 is the receiving app used by business users to receive the post.It can be embalmed into Teams 
 
-![Screenshot of Teams app](https://raw.githubusercontent.com/Probably-Dan/LRG-PostRoom/main/images/PostRoomHome.PNG)
+![Screenshot of Teams app](https://raw.githubusercontent.com/LRG-Champions/LRG-PostRoom/main/images/PostRoomHome.PNG)
 
 ### Key features
 * **Scanning app:** Can be used by the post team to scan post into the relevant pigeonhole 
